@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehek</h1>
-<h3 align="center">I'm pursuing B.Tech ECE</h3>
+<h3 align="center">"Turning Ideas into codes"</h3>
+
+- 🌱 I’m currently learning **B.Tech ECE**
+
+- 📫 How to reach me **mehektamboli812@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
